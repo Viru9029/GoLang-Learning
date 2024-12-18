@@ -17,5 +17,6 @@ All notable changes to this project will be documented in this file.
 ### Added
 - Added the welcome module and its code.
 - Added `CHANGELOG.md` in the repository to keep the update changes.
+- Updated the `Welcome` folder path to redirect into the folder.
 - PR Link: [#2](https://github.com/Viru9029/GoLang-Learning/pull/2)
 
