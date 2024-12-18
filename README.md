@@ -50,7 +50,7 @@ This repository is a curated collection of practical Golang examples designed to
 
 | Concept       | Description                                             |
 |---------------|---------------------------------------------------------|
-| [📦 Channels](./channels) | Learn about buffered, unbuffered channels, and `select` statements. |
+| [📦 Welcome](./A_Welcome) | Welcome to GoLang course. |
 
 ---
 
